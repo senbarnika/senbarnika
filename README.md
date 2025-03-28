@@ -4,7 +4,7 @@ I'm Barnika Sen, an engineering student at Thapar Institute of Engineering & Tec
 🚀 About Me
 
 🔭 I’m currently working on EV Dynamic Pricing using LSTM models and Customer Segmentation using Unsupervised Machine Learning in Python.</br>
-🌱 I’m currently learning Machine Learning, Data Analysis (with SQL), AI (with Python), and Business Strategies (with Excel, Power BI & Tableau).</br>
+🌱 I’m currently learning Machine Learning, Data Analysis (with SQL), AI (with Python), and Business Strategies (with Excel, Power BI & Tableau).
 👯 I’m looking to collaborate on AI-driven projects and data analytics solutions.</br>
 🤔 I’m looking for help with enhancing predictive analytics models for large-scale datasets.</br>
 💬 Ask me about Python (Pandas, NumPy, Scikit-learn), DSA with C++, SQL, Power BI, Tableau, and IoT protocols.</br>
