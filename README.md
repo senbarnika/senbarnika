@@ -21,9 +21,6 @@ I'm Barnika Sen, an engineering student at Thapar Institute of Engineering & Tec
 ![](https://nirzak-streak-stats.vercel.app/?user=senbarnika&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senbarnika&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=senbarnika&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=senbarnika&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
