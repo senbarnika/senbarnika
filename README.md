@@ -1,3 +1,5 @@
+_***Barnika Sen***_
+
 Hi there 👋
 I'm Barnika Sen, an engineering student at Thapar Institute of Engineering & Technology, passionate about Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence analysis. I specialize in solving real-world problems through data analytics, AI, and Python Models.
 
