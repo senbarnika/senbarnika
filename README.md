@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Barnika💅🏿&width=800&height=400)](https://github.com/senbarnika)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Barnika💅🏿&width=800&height=400)](https://www.linkedin.com/in/barnika-sen-261451291)
 
 _***Barnika Sen***_
 
